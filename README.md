@@ -4,6 +4,9 @@ An interactive static analysis tool that evaluates code complexity, highlights p
 
 ---
 
+
+🔗 Live Demo: https://code-complexity-analyzer.netlify.app
+
 ## 🔥 What makes this different?
 
 Most student projects:
